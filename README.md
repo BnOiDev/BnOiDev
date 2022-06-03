@@ -1,10 +1,10 @@
-### Olá! Eu sou o David Luiz
+### Olá! Eu sou Bruno Almeida
 
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Sistemas da Informação 5/8
+- 🔭 Apaixonado por tecnologia / Desenvolvedor
+- 🌱 Estudante eterno de tecnologia
 <div align="center">
-  <a href="https://github.com/davidluiz91">
+  <a href="https://github.com/BnOiDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidluiz91&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluiz91&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
