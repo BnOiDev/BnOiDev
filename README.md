@@ -30,11 +30,11 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=BnOiDev&show_icons=true&theme=vision-friendly-dark" alt="bno's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BnOiDev&layout=compact&theme=vision-friendly-dark" alt="bno's most languages"/>
-</p>
--->
+<div align="center">
+  <a href="https://github.com/BnOiDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BnOiDev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BnOiDev&layout=compact&langs_count=7&theme=codeSTACKr"/>
+</div>
 
 <br><br>
 
