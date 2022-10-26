@@ -10,7 +10,7 @@
 
 <!--
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -31,16 +31,14 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="bno's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="bno's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=BnOiDev&show_icons=true&theme=vision-friendly-dark" alt="bno's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BnOiDev&layout=compact&theme=vision-friendly-dark" alt="bno's most languages"/>
 </p>
 -->
 
 <br><br>
 
 ## Contact
-
-
 
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
@@ -66,7 +64,6 @@
   <img align="center" alt="bno-doc" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="bno-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />     
   </div>
-
-<br><br>
+<br>
 ![snake gif](https://github.com/BnOiDev/BnOiDev/blob/output/github-contribution-grid-snake.svg)
 
