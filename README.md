@@ -87,5 +87,6 @@ Here are some ideas to get you started:
   <img align="center" alt="bno-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />     
   </div>
 
-
+<div style="center">
 ![snake gif](https://github.com/BnOiDev/BnOiDev/blob/output/github-contribution-grid-snake.svg)
+</div>
