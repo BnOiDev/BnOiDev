@@ -4,7 +4,10 @@
 
 - 🔥 Web Developer
 
-- 🔭 I’m currently working at [BnO](https://github.com/BnOiDev)
+- 🔭 I’m currently working at [Novo Mundo](https://github.com/BnOiDev)
+- 🔭 Passionate about technology / Developer
+- 🌱 Eternal technology student
+
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
