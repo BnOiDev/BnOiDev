@@ -5,7 +5,7 @@
 - 🔥 Web Developer
 
 - 🔭 I’m currently working at [Novo Mundo](https://github.com/BnOiDev)
-- 🔭 Passionate about technology / Developer
+- ⚡ Passionate about technology / Developer
 - 🌱 Eternal technology student
 
 
@@ -33,11 +33,11 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/BnOiDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BnOiDev&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BnOiDev&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=BnOiDev&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BnOiDev&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+-->
 
 <br><br>
 
