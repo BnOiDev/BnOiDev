@@ -4,12 +4,12 @@
 
 - 🔥 Web Developer
 
-- 🔭 I’m currently working at [Novo Mundo](https://github.com/BnOiDev)
+- 🔭 I’m currently working at [Novo Mundo](https://www.novomundo.com.br/)
 - ⚡ Passionate about technology / Developer
 - 🌱 Eternal technology student
 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Vue, React**
 
 <!--
 
@@ -34,8 +34,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=BnOiDev&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BnOiDev&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=BnOiDev&show_icons=true&theme=vision-friendly-dark" alt="BnOiDev's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BnOiDev&layout=compact&theme=vision-friendly-dark" alt="BnOiDev's most languages"/>
 </p>
 -->
 
