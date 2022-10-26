@@ -43,13 +43,13 @@
 
 
 <a href="https://www.linkedin.com/in/bruno-silva-de-almeida-4bb35551/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Almeida-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="#" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-Almeida-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="#" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-Almeida-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
